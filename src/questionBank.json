@@ -1,0 +1,101 @@
+{
+    "categories": [
+      {
+        "name": "Science",
+        "questions": [
+          {
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "CO2", "NaCl", "O2"],
+            "correct_answer": "H2O",
+            "category":"Science"
+          },
+          {
+            "question": "What is the nearest planet to the Sun?",
+            "options": ["Venus", "Earth", "Mercury", "Mars"],
+            "correct_answer": "Mercury",
+            "category":"Science"
+          },
+          {
+            "question": "What is the powerhouse of the cell?",
+            "options": ["Nucleus", "Golgi apparatus", "Mitochondria", "Ribosome"],
+            "correct_answer": "Mitochondria",
+            "category":"Science"
+          },
+          {
+            "question": "What is the chemical symbol for carbon dioxide?",
+            "options": ["CO2", "H2O", "NaCl", "O2"],
+            "correct_answer": "CO2",
+            "category":"Science"
+          },
+          {
+            "question": "What is the largest organ in the human body?",
+            "options": ["Heart", "Liver", "Lung", "Skin"],
+            "correct_answer": "Skin",
+            "category":"Science"
+          },
+          {
+            "question": "What is the process by which plants convert sunlight into energy?",
+            "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+            "correct_answer": "Photosynthesis",
+            "category": "Science"
+          },
+          {
+            "question": "What is the name of the force that opposes the motion of objects through a fluid?",
+            "options": ["Friction", "Gravity", "Buoyancy", "Viscosity"],
+            "correct_answer": "Viscosity",
+            "category": "Science"
+          }
+          
+        ]
+      },
+      {
+        "name": "History",
+        "questions": [
+          {
+            "question": "Who was the first President of the United States?",
+            "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+            "correct_answer": "George Washington",
+            "category":"History"
+          },
+          {
+            "question": "Which war was fought between the North and the South regions of the United States?",
+            "options": ["World War I", "Civil War", "Revolutionary War", "World War II"],
+            "correct_answer": "Civil War",
+            "category":"History"
+          },
+          {
+            "question": "Who discovered America?",
+            "options": ["Christopher Columbus", "Amerigo Vespucci", "Marco Polo", "Leif Erikson"],
+            "correct_answer": "Christopher Columbus",
+            "category":"History"
+          },
+          {
+            "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+            "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+            "correct_answer": "Amelia Earhart",
+            "category":"History"
+          },
+          {
+            "question": "What year did the Titanic sink?",
+            "options": ["1912", "1920", "1935", "1940"],
+            "correct_answer": "1912",
+            "category":"History"
+          },
+          {
+            "question": "Which treaty officially ended World War I?",
+            "options": ["Treaty of Versailles", "Treaty of Brest-Litovsk", "Treaty of Trianon", "Treaty of Sevres"],
+            "correct_answer": "Treaty of Versailles",
+            "category": "History"
+          },
+          {
+            "question": "Who was the first female Prime Minister of the United Kingdom?",
+            "options": ["Margaret Thatcher", "Theresa May", "Indira Gandhi", "Golda Meir"],
+            "correct_answer": "Margaret Thatcher",
+            "category": "History"
+          }
+          
+        ]
+      }
+    ]
+  }
+  
